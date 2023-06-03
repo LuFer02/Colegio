@@ -55,6 +55,7 @@ public class FrmPrincipal extends javax.swing.JFrame {
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/colegio/Imagenes/logoumg.jpg"))); // NOI18N
         jLabel1.setEnabled(false);
 
+        jMenuBar1.setBackground(new java.awt.Color(0, 153, 153));
         jMenuBar1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jMenuBar1.setMinimumSize(new java.awt.Dimension(0, 4));
 

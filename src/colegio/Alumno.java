@@ -1,7 +1,5 @@
 package colegio;
-/**
- * @author CesarCuellar
- */
+
 public class Alumno extends Persona{
     private String Genero;
     public Alumno(String Genero, String identificacion, String nombre, String correo) {
